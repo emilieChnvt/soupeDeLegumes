@@ -27,6 +27,7 @@ html,body{
 
 }
 
+
 .potage:hover span{
     opacity: 1;
     transition: 0.5s;
